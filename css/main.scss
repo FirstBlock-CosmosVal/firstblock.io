@@ -1,0 +1,242 @@
+---
+---
+
+$primary-color: #00d7e0;
+$secondary-color: #0088a2;
+
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body {
+	background: #191919;
+	color: #fcfeff;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-size: 1rem;
+	font-weight: 500;
+	line-height: 1.4;
+	text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  text-shadow: rgba(0, 0, 0, .01) 0 0 1px;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+h2 {
+	font-size: 1.25rem;
+	font-weight: 800;
+	margin-bottom: 12px;
+}
+
+h3 {
+	font-size: 1.125rem;
+	font-weight: 800;
+}
+
+p {
+	margin-bottom: 30px;
+}
+
+a {
+	color: #fcfeff;
+}
+
+a:hover {
+	color: #fff;
+}
+
+a:active {
+	color: #eee;
+}
+
+code {
+	font-family: Menlo, Courier, monospace;
+	overflow-wrap: break-word;
+}
+
+.button {
+	background: $primary-color;
+	color: #fff;
+	display: inline-block;
+	font-weight: 800;
+	padding: 15px 0;
+	text-decoration: none;
+	text-align: center;
+	width: 220px;
+}
+
+/* wrapper will be bigger, container will be smaller. However they are the same size on mobile. */
+.wrapper,
+.container {
+	margin: 0 auto;
+	width: 90%;
+}
+
+.container {
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	padding: 1rem 0;
+}
+
+header a {
+	text-decoration: none;
+}
+
+header nav li {
+	font-weight: 800;
+}
+
+footer {
+	border-top: 1px solid #444;
+	padding: 10px 0;
+}
+
+.home header {
+	left: 0;
+	right: 0;
+	position: absolute;
+}
+
+.hero {
+	background: url("../img/hero-image.jpg");
+	background-size: cover;
+	margin-bottom: 30px;
+}
+
+.hero-text {
+	padding: 10rem 0 8rem;
+}
+
+.hero-text h1 {
+	font-size: 1.75rem;
+}
+
+.hero-text h2 {
+	color: $primary-color;
+	font-size: 0.8125rem;
+	letter-spacing: 2px;
+	margin-bottom: 6px;
+	text-transform: uppercase;
+}
+
+@media screen and (min-width: 768px) {
+
+	body {
+		font-size: 1.25rem;
+	}
+
+	h1 {
+		font-size: 1.875rem;
+	}
+
+	h2 {
+		font-size: 1.5rem;
+	}
+
+	h3 {
+		font-size: 1.375rem;
+	}
+
+	.wrapper {
+		max-width: 940px;
+	}
+
+	.container {
+		max-width: 620px;
+	}
+  
+	header .menu-icon {
+		display: none;
+	}
+
+	header nav ul {
+		display: flex;
+	}
+
+	header nav ul li {
+		flex: auto;
+		margin-left: 1.5rem;
+	}
+
+	.hero-text {
+		padding: 20rem 0 18rem;
+	}
+
+	.hero-text h1 {
+		font-size: 2.5rem;
+	}
+
+	.hero-text h2 {
+		font-size: 1rem;
+		letter-spacing: 0.8rem;
+	}
+
+	footer {
+		font-size: 0.75rem;
+	}
+
+	footer nav ul {
+		display: flex;
+	}
+
+	footer nav ul li {
+		margin-right: 1rem;
+	}
+
+}
+

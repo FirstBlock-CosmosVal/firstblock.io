@@ -1,0 +1,16 @@
+<header class="wrapper">
+  <a class="logo" href="{{ site.baseurl }}/"><img src="/img/logo.svg" alt="First Block Ventures"></a>
+  <nav class="nav">
+    <a href="#" class="menu-icon">
+      <span>&#9776;</span> Menu
+    </a>
+    <ul>
+      {% assign pages = site.pages | sort: 'position' %}
+      {% for page in pages %}
+        {% if page.title %}
+          <li><a href="{{page.url}}" class="page-link{% if page.url == url %} selected{% endif %}">{{page.title}}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
