@@ -1,14 +1,14 @@
 title: FirstBlock Ventures
 email: kyle@firstblock.com
 description: >- # this means to ignore newlines until "baseurl:"
-  FirstBlock.io provides is your best-in-class validator for the Cosmos.network ecosystem.
+  FirstBlock.io provides delegatedf validator services for the Cosmos.network ecosystem.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username:
 medium_username: 
-steemit_username: @firstblock 
+steemit_username: "@firstblock" 
 facebook_url: 
-twitter_username: @FirstBlockV
+twitter_username: FirstBlockV
 github_username:  
 
 # Build settings
