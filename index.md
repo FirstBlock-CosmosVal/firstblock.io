@@ -25,5 +25,9 @@ Public Key for delegations will be announced.
 ## Our Mission
 We will spare no expense when it comes to the security, integrity and scalabilty of our validator operations. As long time believers in and users of crypto, we will be here to support and help grow the Cosmos ecosystem to ensure as many people can benefit as possible.
 
-## Any questions or comments? [Contact us]({{ site.baseurl }}"/contact")
-<br\>
+## Please Follow Us 
+We will always post important information and updates about our validator on [Twitter](https://twitter.com/FirstBlockV) and [Steemit](https://steemit.com/@firstblock), so please give us a follow! 
+
+
+## [Contact us]({{ site.baseurl }}"contact")
+<br/>
