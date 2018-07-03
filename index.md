@@ -18,11 +18,7 @@ You can observe our Testnet validator & Sentry node below.
 
 <a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3" class="button">Testnet Validator</a>
 
-`https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3`
-
 <a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3" class="button">Sentry Node</a>
-
-`https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3`
 
 Public Key for delegations will be announced.
 
