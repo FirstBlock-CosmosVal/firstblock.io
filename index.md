@@ -11,7 +11,7 @@ hero_subheader: Cosmos Validator
 We would like to thank the Cosmos team and community who have helped make this happen. FirstBlock Ventures is excited to take this journey with you all as Cosmos tackles interoperability, scalability and providing a developer friendly environment to grow the ecosystem.  If you are new to Cosmos and would like to learn more, please visit [Cosmos.network](https://cosmos.network)
 
 ## Your Delegation
-As supporters of the Cosmos ecosystem, it is your choice to delegate to validators you see potential in. We hope to earn your delegation through our actions, reliability and transparency. Before delegating, please always understand the risks associated with doing so.
+As supporters of the Cosmos ecosystem, it is your choice to delegate to validators you see potential in. We hope to earn your delegation through our actions, reliability and transparency. Before delegating, please always understand the risks associated with doing so, as detailed in the [Cosmos.network documentation](https://cosmos.network/docs/resources/delegator-faq.html#risks).
 
 ## Our Infrastructure
 You can observe our Testnet validator & Sentry node below.
