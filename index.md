@@ -29,5 +29,5 @@ We will spare no expense when it comes to the security, integrity and scalabilty
 We will always post important information and updates about our validator on [Twitter](https://twitter.com/FirstBlockV) and [Steemit](https://steemit.com/@firstblock), so please give us a follow! 
 
 
-## [Contact us]({{ site.baseurl }}contact)
+## [Contact Us](http://firstblock.io/contact/)
 <br/>
