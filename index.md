@@ -8,10 +8,10 @@ hero_subheader: Cosmos Validator
 ---
 
 ## To the Cosmos Community
-As Cosmos embarks upon the Mainnet launch, we would like to thank the Cosmos team and community who has helped make this happen. We at FirstBlock Validator are excited to take this journey with you all as Cosmos tackles interoperability, scalability while providing a developer friendly environment.
+We would like to thank the Cosmos team and community who have helped make this happen. FirstBlock Ventures is excited to take this journey with you all as Cosmos tackles interoperability, scalability and providing a developer friendly environment to grow the ecosystem.  If you are new to Cosmos and would like to learn more, please visit [Cosmos.network](https://cosmos.network)
 
 ## Your Delegation
-As supporters of the Cosmos ecosystem, it is your choice to delegate to validators you trust. We hope to earn your trust through our actions and reliability. Before delegating, please always understand the risks and rewards of doing so.
+As supporters of the Cosmos ecosystem, it is your choice to delegate to validators you see potential in. We hope to earn your delegation through our actions, reliability and transparency. Before delegating, please always understand the risks associated with doing so.
 
 ## Our Infrastructure
 You can observe our Testnet validator & Sentry node below.
@@ -23,6 +23,6 @@ You can observe our Testnet validator & Sentry node below.
 Public Key for delegations will be announced.
 
 ## Our Mission
-We at FirstBlock Validator, based in Dallas, TX, will spare no expense when it comes to the security and integrity of our operations. As long time believers in and users of crypto, we will be here to support and help grow the Cosmos ecosystem to ensure as many people can benefit as possible.
+We will spare no expense when it comes to the security, integrity and scalabilty of our operations. As long time believers in and users of crypto, we will be here to support and help grow the Cosmos ecosystem to ensure as many people can benefit as possible.
 
 ## Any questions or comments? [Contact us]({{ site.baseurl }}"/contact")
