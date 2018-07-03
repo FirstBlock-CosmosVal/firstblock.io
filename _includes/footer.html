@@ -1,8 +1,8 @@
-<footer class="inline">
+<footer class="wrapper">
   <div>
     <span class="copyright">{{ site.title }} &copy; 2018 &middot;</span>
     <nav>
-      <ul class="footer-nav">
+      <ul class="inline">
         {% assign pages = site.pages | sort: 'position' %}
         {% for page in pages %}
           {% if page.title %}
