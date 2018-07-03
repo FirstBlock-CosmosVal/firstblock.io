@@ -3,7 +3,6 @@
     <span class="copyright">{{ site.title }} &copy; 2018 &middot;</span>
     <nav>
       <ul class="footer-nav">
-         display: inline-block;
         {% assign pages = site.pages | sort: 'position' %}
         {% for page in pages %}
           {% if page.title %}
