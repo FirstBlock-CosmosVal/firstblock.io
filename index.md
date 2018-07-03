@@ -3,8 +3,8 @@ title: Home
 layout: index
 permalink: "/"
 position: 0
-hero_header: We validate Cosmos mainnet with integrity
-hero_subheader: Cosmos Validation
+hero_header: You Delegate. We Validate.
+hero_subheader: Cosmos Validator
 ---
 
 ## To the Cosmos Community
