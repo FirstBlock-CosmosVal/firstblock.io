@@ -14,7 +14,4 @@ We are based out of Dallas, TX but have partners and team members across the Uni
 ## Partners 
 We are fortunate to have great partners as we aim to be the best delegated validator in the Cosmos ecosystem. 
 
-<a href="https://puu.sh/APWbu/ff5b08920b.png" class="logo"</a>
-
 ![SaasSoft](https://puu.sh/APWbu/ff5b08920b.png)
-Format: ![Alt Text](url)
