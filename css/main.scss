@@ -23,45 +23,45 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
-	display: block;
+  display: block;
 }
 body {
-	line-height: 1;
+  line-height: 1;
 }
 ol, ul {
-	list-style: none;
+  list-style: none;
 }
 blockquote, q {
-	quotes: none;
+  quotes: none;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
-	content: '';
-	content: none;
+  content: '';
+  content: none;
 }
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
 body {
-	background: #191919;
-	color: #fcfeff;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-	font-size: 1rem;
-	font-weight: 500;
-	line-height: 1.4;
-	text-rendering: optimizeLegibility;
+  background: #191919;
+  color: #fcfeff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.4;
+  text-rendering: optimizeLegibility;
   -moz-osx-font-smoothing: grayscale;
   font-smoothing: antialiased;
   -webkit-font-smoothing: antialiased;
@@ -75,78 +75,78 @@ h1 {
 }
 
 h2 {
-	font-size: 1.25rem;
-	font-weight: 800;
-	margin-bottom: 12px;
+  font-size: 1.25rem;
+  font-weight: 800;
+  margin-bottom: 12px;
 }
 
 h3 {
-	font-size: 1.125rem;
-	font-weight: 800;
+  font-size: 1.125rem;
+  font-weight: 800;
 }
 
 p {
-	margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 a {
-	color: #fcfeff;
+  color: #fcfeff;
 }
 
 a:hover {
-	color: #fff;
+  color: #fff;
 }
 
 a:active {
-	color: #eee;
+  color: #eee;
 }
 
 code {
-	font-family: Menlo, Courier, monospace;
-	overflow-wrap: break-word;
+  font-family: Menlo, Courier, monospace;
+  overflow-wrap: break-word;
 }
 
 .button {
-	background: $primary-color;
-	color: #fff;
-	display: inline-block;
-	font-weight: 800;
-	padding: 15px 0;
-	text-decoration: none;
-	text-align: center;
-	width: 220px;
+  background: $primary-color;
+  color: #fff;
+  display: inline-block;
+  font-weight: 800;
+  padding: 15px 0;
+  text-decoration: none;
+  text-align: center;
+  width: 220px;
 }
 
 /* wrapper will be bigger, container will be smaller. However they are the same size on mobile. */
 .wrapper,
 .container {
-	margin: 0 auto;
-	width: 90%;
+  margin: 0 auto;
+  width: 90%;
 }
 
 .container {
 }
 
 .page .container {
-	padding: 20px 0;
+  padding: 20px 0;
 }
 
 .page h1 {
-	margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 header {
-	display: flex;
-	justify-content: space-between;
-	padding: 1rem 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
 }
 
 header a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 header nav li {
-	font-weight: 800;
+  font-weight: 800;
 }
 
 header nav .menu-icon img {
@@ -154,13 +154,13 @@ header nav .menu-icon img {
 }
 
 header nav .menu-icon span {
-	display: none;
+  display: none;
 }
 
 .nav ul {
-	background: rgba(0,0,0,.75);
-	border-radius: 6px;
-	font-size: 1.35rem;
+  background: rgba(0,0,0,.75);
+  border-radius: 6px;
+  font-size: 1.35rem;
   left: 0;
   padding: 10px 20px;
   position: absolute;
@@ -169,192 +169,192 @@ header nav .menu-icon span {
 }
 
 .nav ul li {
-	margin-bottom: 10px;
-	&:last-child {
-		margin-bottom: 0;
-	}
+  margin-bottom: 10px;
+  &:last-child {
+    margin-bottom: 0;
+  }
 }
 
 footer {
-	border-top: 1px solid #444;
-	padding: 10px 0;
+  border-top: 1px solid #444;
+  padding: 10px 0;
 }
 
 .home header {
-	left: 0;
-	right: 0;
-	position: absolute;
+  left: 0;
+  right: 0;
+  position: absolute;
 }
 
 .hero {
-	background: url("../img/hero-image.jpg");
-	background-size: cover;
-	margin-bottom: 30px;
+  background: url("../img/hero-image.jpg");
+  background-size: cover;
+  margin-bottom: 30px;
 }
 
 .hero-text {
-	padding: 10rem 0 8rem;
+  padding: 10rem 0 8rem;
 }
 
 .hero-text h1 {
-	font-size: 1.75rem;
+  font-size: 1.75rem;
 }
 
 .hero-text h2 {
-	color: $primary-color;
-	font-size: 0.8125rem;
-	letter-spacing: 2px;
-	margin-bottom: 6px;
-	text-transform: uppercase;
+  color: $primary-color;
+  font-size: 0.8125rem;
+  letter-spacing: 2px;
+  margin-bottom: 6px;
+  text-transform: uppercase;
 }
 
 .button-w-code {
-	margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .button-w-code .button {
-	margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .button-w-code code {
-	font-size: 0.75rem;
-	margin-left: auto;
-	width: 60%;
+  font-size: 0.75rem;
+  margin-left: auto;
+  width: 60%;
 }
 
 .button-w-code code a {
-	color: #666;
-	text-decoration: none;
+  color: #666;
+  text-decoration: none;
 }
 
 footer .social-media li {
-	display: flex;
-	align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 footer .social-media li span {
-	display: none;
+  display: none;
 }
 
 @media screen and (min-width: 768px) {
 
-	body {
-		font-size: 1.25rem;
-	}
+  body {
+    font-size: 1.25rem;
+  }
 
-	h1 {
-		font-size: 1.875rem;
-	}
+  h1 {
+    font-size: 1.875rem;
+  }
 
-	h2 {
-		font-size: 1.5rem;
-	}
+  h2 {
+    font-size: 1.5rem;
+  }
 
-	h3 {
-		font-size: 1.375rem;
-	}
+  h3 {
+    font-size: 1.375rem;
+  }
 
-	.wrapper {
-		max-width: 940px;
-	}
+  .wrapper {
+    max-width: 940px;
+  }
 
-	.container {
-		max-width: 620px;
-	}
+  .container {
+    max-width: 620px;
+  }
 
-	.page .container {
-		padding: 40px 0;
-	}
+  .page .container {
+    padding: 40px 0;
+  }
   
-	header .menu-icon {
-		display: none;
-	}
+  header .menu-icon {
+    display: none;
+  }
 
-	header .nav ul {
-		display: flex !important;
-	}
+  header .nav ul {
+    display: flex !important;
+  }
 
-	header .nav ul {
-		background: none;
+  header .nav ul {
+    background: none;
     border-radius: 0;
     top: 0;
     padding: 0;
     position: relative;
     width: auto;
-	}
+  }
 
-	header nav ul li {
-		flex: auto;
-		margin-left: 1.5rem;
-	}
+  header nav ul li {
+    flex: auto;
+    margin-left: 1.5rem;
+  }
 
-	.hero {
-		margin-bottom: 60px;
-	}
+  .hero {
+    margin-bottom: 60px;
+  }
 
-	.hero-text {
-		padding: 20rem 0 18rem;
-	}
+  .hero-text {
+    padding: 20rem 0 18rem;
+  }
 
-	.hero-text h1 {
-		font-size: 2.5rem;
-	}
+  .hero-text h1 {
+    font-size: 2.5rem;
+  }
 
-	.hero-text h2 {
-		font-size: 1rem;
-		letter-spacing: 0.5rem;
-	}
+  .hero-text h2 {
+    font-size: 1rem;
+    letter-spacing: 0.5rem;
+  }
 
-	.button-w-code {
-		align-items: center;
-		display: flex;
-	}
+  .button-w-code {
+    align-items: center;
+    display: flex;
+  }
 
-	.button-w-code .button {
-		margin-bottom: 0;
-	}
+  .button-w-code .button {
+    margin-bottom: 0;
+  }
 
-	footer {
-		color: #666;
-		display: flex;
-		font-size: 0.9375rem;
-		padding: 40px 0;
-	}
+  footer {
+    color: #666;
+    display: flex;
+    font-size: 0.9375rem;
+    padding: 40px 0;
+  }
 
-	footer > div {
-		display: flex;
-	}
+  footer > div {
+    display: flex;
+  }
 
-	footer nav ul {
-		display: flex;
-	}
+  footer nav ul {
+    display: flex;
+  }
 
-	footer nav ul li {
-		margin-right: 1rem;
-		margin-bottom: 0;
-	}
+  footer nav ul li {
+    margin-right: 1rem;
+    margin-bottom: 0;
+  }
 
-	.footer-nav {
-		margin-left: 8px;
-	}
+  .footer-nav {
+    margin-left: 8px;
+  }
 
-	.footer-nav a {
-		color: #fff;
-		text-decoration: none;
-		&:hover {
-			color: $primary-color;
-			text-decoration: underline;
-		}
-	}
+  .footer-nav a {
+    color: #fff;
+    text-decoration: none;
+    &:hover {
+      color: $primary-color;
+      text-decoration: underline;
+    }
+  }
 
-	.social-media {
-		display: flex;
-		margin-left: auto;
-	}
+  .social-media {
+    display: flex;
+    margin-left: auto;
+  }
 
-	.social-media li {
-		margin-left: 24px;
-	}
+  .social-media li {
+    margin-left: 24px;
+  }
 
 }
 

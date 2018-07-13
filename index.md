@@ -17,13 +17,13 @@ As supporters of the Cosmos ecosystem, it is your choice to delegate to validato
 You can observe our Testnet validator & Public node below.
 
 <div class="button-w-code">
-	<a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3" class="button">Testnet Validator</a>
-	<code><a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3">https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3</a></code>
+	<a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3" class="button" target="_blank">Testnet Validator</a>
+	<code><a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3"  target="_blank">https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3</a></code>
 </div>
 
 <div class="button-w-code">
-	<a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3" class="button">Sentry Node</a>
-	<code><a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3">https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3</a></code>
+	<a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3" class="button"  target="_blank">Sentry Node</a>
+	<code><a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3"  target="_blank">https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3</a></code>
 </div>
 
 Public Key for delegations will be announced.
