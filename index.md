@@ -14,7 +14,7 @@ We would like to thank the Cosmos team and community who have helped make this h
 As supporters of the Cosmos ecosystem, it is your choice to delegate to validators you see potential in. We hope to earn your delegation through our actions, reliability and transparency. Before delegating, please always understand the risks associated with doing so, as detailed in the [Cosmos.network documentation](https://cosmos.network/docs/resources/delegator-faq.html#risks).
 
 ## Our Infrastructure
-You can observe our Testnet validator & Sentry node below.
+You can observe our Testnet validator & Public node below.
 
 <div class="button-w-code">
 	<a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3" class="button">Testnet Validator</a>
