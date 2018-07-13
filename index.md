@@ -16,9 +16,15 @@ As supporters of the Cosmos ecosystem, it is your choice to delegate to validato
 ## Our Infrastructure
 You can observe our Testnet validator & Sentry node below.
 
-<a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3" class="button">Testnet Validator</a>
+<div class="button-w-code">
+	<a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3" class="button">Testnet Validator</a>
+	<code><a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3">https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3</a></code>
+</div>
 
-<a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3" class="button">Sentry Node</a>
+<div class="button-w-code">
+	<a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3" class="button">Sentry Node</a>
+	<code><a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3">https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3</a></code>
+</div>
 
 Public Key for delegations will be announced.
 

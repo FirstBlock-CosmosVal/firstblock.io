@@ -1,10 +1,13 @@
 <header class="wrapper">
-  <a class="logo" href="{{ site.baseurl }}/"><img src="/img/logo.svg" alt="First Block Ventures"></a>
+  <a class="logo" href="{{ site.baseurl }}/">
+    <img src="{{ "/img/logo.svg" | prepend: site.baseurl }}" alt="First Block Ventures">
+  </a>
   <nav class="nav">
     <a href="#" class="menu-icon">
-      <span>&#9776;</span> Menu
+      <img src="{{ "/img/menu.svg" | prepend: site.baseurl }}" alt="&#9776;">
+      <span>Menu</span>
     </a>
-    <ul>
+    <ul style="display: none;">
       {% assign pages = site.pages | sort: 'position' %}
       {% for page in pages %}
         {% if page.title %}

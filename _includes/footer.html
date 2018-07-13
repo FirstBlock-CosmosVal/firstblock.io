@@ -1,6 +1,6 @@
 <footer class="wrapper">
   <div>
-    <span class="copyright">{{ site.title }} &copy; 2018 &middot;</span>
+    <span class="copyright">{{ site.title }} &copy; {{ "now" | date: "%Y" }}&nbsp;&nbsp;&middot;</span>
     <nav>
       <ul class="footer-nav">
         {% assign pages = site.pages | sort: 'position' %}
@@ -14,19 +14,19 @@
   </div>
   <ul class="social-media">
     {% if site.instagram_username %}
-      <li class="instagram"><a href="http://instagram.com/{{ site.instagram_username }}"><span>Instagram</span></a></li>
+      <li class="instagram"><a href="http://instagram.com/{{ site.instagram_username }}"><img src="{{ "/img/icons-instagram.svg" | prepend: site.baseurl }}"><span>Instagram</span></a></li>
     {% endif %}
     {% if site.medium_username %}
-      <li class="medium"><a href="http://medium.com/{{ site.medium_username }}"><span>Medium</span></a></li>
+      <li class="medium"><a href="http://medium.com/{{ site.medium_username }}"><img src="{{ "/img/icons-medium.svg" | prepend: site.baseurl }}"><span>Medium</span></a></li>
     {% endif %}
     {% if site.steemit_username %}
-      <li class="steemit"><a href="http://steemit.com/{{ site.steemit_username }}"><span>Steemit</span></a></li>
+      <li class="steemit"><a href="http://steemit.com/{{ site.steemit_username }}"><img src="{{ "/img/icons-steemit.svg" | prepend: site.baseurl }}"><span>Steemit</span></a></li>
     {% endif %}
     {% if site.facebook_url %}
-      <li class="facebook"><a href="http://facebook.com/{{ site.facebook_url }}"><span>Facebook</span></a></li>
+      <li class="facebook"><a href="http://facebook.com/{{ site.facebook_url }}"><img src="{{ "/img/icons-facebook.svg" | prepend: site.baseurl }}"><span>Facebook</span></a></li>
     {% endif %}
     {% if site.twitter_username %}
-      <li class="twitter"><a href="http://twitter.com/{{ site.twitter_username }}"><span>Twitter</span></a></li>
+      <li class="twitter"><a href="http://twitter.com/{{ site.twitter_username }}"><img src="{{ "/img/icons-twitter.svg" | prepend: site.baseurl }}"><span>Twitter</span></a></li>
     {% endif %}
   </ul>
 </footer>

@@ -127,6 +127,14 @@ code {
 .container {
 }
 
+.page .container {
+	padding: 20px 0;
+}
+
+.page h1 {
+	margin-bottom: 20px;
+}
+
 header {
 	display: flex;
 	justify-content: space-between;
@@ -139,6 +147,32 @@ header a {
 
 header nav li {
 	font-weight: 800;
+}
+
+header nav .menu-icon img {
+    margin-top: 10px;
+}
+
+header nav .menu-icon span {
+	display: none;
+}
+
+.nav ul {
+	background: rgba(0,0,0,.75);
+	border-radius: 6px;
+	font-size: 1.35rem;
+  left: 0;
+  padding: 10px 20px;
+  position: absolute;
+  top: 70px;
+  width: 85%;
+}
+
+.nav ul li {
+	margin-bottom: 10px;
+	&:last-child {
+		margin-bottom: 0;
+	}
 }
 
 footer {
@@ -174,6 +208,34 @@ footer {
 	text-transform: uppercase;
 }
 
+.button-w-code {
+	margin-bottom: 20px;
+}
+
+.button-w-code .button {
+	margin-bottom: 10px;
+}
+
+.button-w-code code {
+	font-size: 0.75rem;
+	margin-left: auto;
+	width: 60%;
+}
+
+.button-w-code code a {
+	color: #666;
+	text-decoration: none;
+}
+
+footer .social-media li {
+	display: flex;
+	align-items: center;
+}
+
+footer .social-media li span {
+	display: none;
+}
+
 @media screen and (min-width: 768px) {
 
 	body {
@@ -199,18 +261,35 @@ footer {
 	.container {
 		max-width: 620px;
 	}
+
+	.page .container {
+		padding: 40px 0;
+	}
   
 	header .menu-icon {
 		display: none;
 	}
 
-	header nav ul {
-		display: flex;
+	header .nav ul {
+		display: flex !important;
+	}
+
+	header .nav ul {
+		background: none;
+    border-radius: 0;
+    top: 0;
+    padding: 0;
+    position: relative;
+    width: auto;
 	}
 
 	header nav ul li {
 		flex: auto;
 		margin-left: 1.5rem;
+	}
+
+	.hero {
+		margin-bottom: 60px;
 	}
 
 	.hero-text {
@@ -223,11 +302,27 @@ footer {
 
 	.hero-text h2 {
 		font-size: 1rem;
-		letter-spacing: 0.8rem;
+		letter-spacing: 0.5rem;
+	}
+
+	.button-w-code {
+		align-items: center;
+		display: flex;
+	}
+
+	.button-w-code .button {
+		margin-bottom: 0;
 	}
 
 	footer {
-		font-size: 0.75rem;
+		color: #666;
+		display: flex;
+		font-size: 0.9375rem;
+		padding: 40px 0;
+	}
+
+	footer > div {
+		display: flex;
 	}
 
 	footer nav ul {
@@ -236,6 +331,29 @@ footer {
 
 	footer nav ul li {
 		margin-right: 1rem;
+		margin-bottom: 0;
+	}
+
+	.footer-nav {
+		margin-left: 8px;
+	}
+
+	.footer-nav a {
+		color: #fff;
+		text-decoration: none;
+		&:hover {
+			color: $primary-color;
+			text-decoration: underline;
+		}
+	}
+
+	.social-media {
+		display: flex;
+		margin-left: auto;
+	}
+
+	.social-media li {
+		margin-left: 24px;
 	}
 
 }
