@@ -1,7 +1,7 @@
 ---
 title: Terms of Use
 permalink: "/Terms_of_Use/"
-layout: post
+layout: page
 exclude: true
 position: 
 ---
