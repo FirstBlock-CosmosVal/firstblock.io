@@ -5,8 +5,7 @@ layout: post
 exclude: true
 position: 
 ---
-
-
+<br/>
 Everything we do at FirstBlock Ventures LLC is informed by our core values of Trust, Reliability and Security.  The commitments we make within this code of conduct apply to everyone FirstBlock Ventures LLC, as well as all of our projects and ventures as validators and developers for the Cosmos ecosystem. All statements within this code of conduct have been personally approved by the operators of FirstBlock Ventures LLC.  However, these commitments are not a legally binding contract and are subject to change.
 
 ## Reliability 
