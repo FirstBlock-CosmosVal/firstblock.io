@@ -5,9 +5,6 @@ layout: post
 exclude: true
 position: 
 ---
-
-
-# Terms of Use
  
 ----
  
@@ -53,9 +50,7 @@ This site may contain certain historical information. Historical information, ne
  
 ## SECTION 4 - PRODUCTS OR SERVICES (if applicable)
  
-Certain products or services may be available exclusively online through the website. These products or services may have limited quantities and are subject to return or exchange only according to our Return Policy.
- 
-We do not warrant that the quality of any products, services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.
+Certain products or services may be available exclusively online through the website. We do not warrant that the quality of any products, services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.
  
  
 ## SECTION 5 - OPTIONAL TOOLS
@@ -161,4 +156,4 @@ We reserve the right, at our sole discretion, to update, change or replace any p
  
 ## SECTION 18 - CONTACT INFORMATION
  
-Questions about the Terms of Service should be sent to us at hello@firstblock.com.
+Questions about the Terms of Service should be sent to us at <hello@firstblock.com>.
