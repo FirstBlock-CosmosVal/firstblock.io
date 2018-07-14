@@ -13,12 +13,16 @@ This Privacy Policy describes how your personal information is collected, used, 
 When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
  
 We collect Device Information using the following technologies:
+
+  - Type some Markdown on the left
+  - See HTML in the right
+  - Magic
  
-*	“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit <http://www.allaboutcookies.org>{:target="_blank"}.
+>	“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit <http://www.allaboutcookies.org>{:target="_blank"}.
 
-*	“Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+>	“Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-*	“Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
+>	“Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
  
