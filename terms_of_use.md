@@ -153,6 +153,7 @@ You can review the most current version of the Terms of Service at any time at t
  
 We reserve the right, at our sole discretion, to update, change or replace any part of these Terms of Service by posting updates and changes to our website. It is your responsibility to check our website periodically for changes. Your continued use of or access to our website or the Service following the posting of any changes to these Terms of Service constitutes acceptance of those changes.
  
+These Terms of Use were last updated on July 14, 2018. 
  
 ## SECTION 18 - CONTACT INFORMATION
  
