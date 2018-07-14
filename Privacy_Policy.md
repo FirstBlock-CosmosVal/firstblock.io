@@ -5,9 +5,7 @@ layout: post
 exclude: true
 position: 
 ---
-
-# FirstBlock Ventures LLC Privacy Policy
- 
+<br/>
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit https://firstblock.io/ (the “Site”).
  
 ## PERSONAL INFORMATION WE COLLECT
@@ -16,13 +14,13 @@ When you visit the Site, we automatically collect certain information about your
  
 We collect Device Information using the following technologies:
  
-•	“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+*	“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
 
-•	“Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+*	“Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
 
-•	“Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
+*	“Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
  
@@ -43,4 +41,4 @@ Please note that we do not alter our Site’s data collection and use practices 
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
  
 ## CONTACT US
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at hello@firstblock.com.
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at <hello@firstblock.com>.
