@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 permalink: "/Code_of_Conduct/"
-layout: page
+layout: post
 position: 
 ---
 
