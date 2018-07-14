@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 permalink: "/Privacy_Policy/"
-layout: post
+layout: page
 exclude: true
 position: 
 ---
