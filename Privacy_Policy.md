@@ -6,7 +6,7 @@ exclude: true
 position: 
 ---
 <br/>
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit https://firstblock.io/ (the “Site”).
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit <https://firstblock.io/> (the “Site”).
  
 ## PERSONAL INFORMATION WE COLLECT
  
@@ -15,7 +15,9 @@ When you visit the Site, we automatically collect certain information about your
 We collect Device Information using the following technologies:
  
 *	“Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+
 *	“Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+
 *	“Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
