@@ -10,9 +10,11 @@
     <ul style="display: none;">
       {% assign pages = site.pages | sort: 'position' %}
       {% for page in pages %}
+       {% unless page.exclude %}
         {% if page.title %}
           <li><a href="{{page.url}}" class="page-link{% if page.url == url %} selected{% endif %}">{{page.title}}</a></li>
         {% endif %}
+       {% endunless %}
       {% endfor %}
     </ul>
   </nav>
