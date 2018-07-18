@@ -22,8 +22,8 @@ You can observe our Testnet validator & Public node below.
 </div>
 
 <div class="button-w-code">
-	<a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3" class="button"  target="_blank">Sentry Node</a>
-	<code><a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3"  target="_blank">https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3</a></code>
+	<a href="https://explorecosmos.network/validators/cosmosvaladdr1lu4svk6agftvnu2h2mdkpq9mewd6rw6l6xv5r3" class="button"  target="_blank">Public Node</a>
+	<code><a href="https://explorecosmos.network/validators/cosmosaccaddr1e3qm8jd9357zhdemwnaafmf0wy3f4yqmd307c2"  target="_blank">https://explorecosmos.network/validators/cosmosaccaddr1e3qm8jd9357zhdemwnaafmf0wy3f4yqmd307c2</a></code>
 </div>
 
 Public Key for delegations will be announced.
