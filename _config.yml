@@ -9,7 +9,7 @@ medium_username:
 steemit_username: "@firstblock" 
 facebook_url: 
 twitter_username: FirstBlockV
-github_username:  
+github_username: FirstBlockV 
 
 # Build settings
 markdown: kramdown
