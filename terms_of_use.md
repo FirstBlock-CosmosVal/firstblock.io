@@ -1,9 +1,9 @@
 ---
 title: Terms of Use
-permalink: "/Terms_of_Use/"
+permalink: "/terms/"
 layout: page
 exclude: true
-position: 
+position: 5
 ---
  
 ----
