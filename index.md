@@ -4,7 +4,7 @@ layout: index
 permalink: "/"
 position: 0
 hero_header: You Delegate. We Validate.
-hero_subheader: Cosmos Validator
+hero_subheader: DPOS Validator
 ---
 
 ## To the Cosmos Community
@@ -31,8 +31,8 @@ Public Key for delegations will be announced.
 ## Our Mission
 We will spare no expense when it comes to the security, integrity and scalabilty of our validator operations. As long time believers in and users of crypto, we will be here to support and help grow the Cosmos ecosystem to ensure as many people can benefit as possible.
 
-## Please Follow Us 
-We will always post important information and updates about our validator on [Twitter](https://twitter.com/FirstBlockV) and [Steemit](https://steemit.com/@firstblock), so please give us a follow! 
+## Please Follow Us
+We will always post important information and updates about our validator on [Twitter](https://twitter.com/FirstBlockV) and [Steemit](https://steemit.com/@firstblock), so please give us a follow!
 
 
 ## [Contact Us](http://firstblock.io/contact/)
