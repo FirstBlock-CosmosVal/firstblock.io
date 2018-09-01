@@ -28,4 +28,4 @@ Public Key for delegations will be announced.
 
 ## Join Us on the Cosmos Journey 
 
-![Cosmos](https://puu.sh/BnHFl/f41a511c7b.png)
+![Cosmos](https://puu.sh/BnHM2/ba5d7cb8c4.png)
