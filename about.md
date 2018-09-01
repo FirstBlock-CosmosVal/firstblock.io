@@ -5,7 +5,7 @@ permalink: /about/
 position: 3
 ---
 
-FirstBlock Validator is owned and operated by Finality Networks LLC. At a high level, we provide best-in-class delegated validator and masternode hosting services.
+FirstBlock Ventures is owned and operated by Finality Networks LLC. At a high level, we provide best-in-class delegated validator and masternode hosting services.
 
 We are based out of Dallas, TX but have partners and team members across the United States. At the core, we are crypto veterans with a common goal &mdash; to help build and support this growing DPOS ecosystems by applying the decades of experience we have gained in product, technology and enterprise cloud services.
 
