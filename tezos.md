@@ -11,7 +11,7 @@ We would like to thank the Tezos Foundation and awesome community who have helpe
 ## Your Delegation
 As supporters of the Tezos project, it is your choice to delegate to bakers you feel add value to the community. We hope to earn your delegation through our actions, reliability and transparency. Before delegating, please always understand the risks associated with doing so.
 
-Our delegation key: 
+Our delegation key: `tz1ZQppA6UerMz5CJtGvZmmB6z8L9syq7ixu`
 ```
 tz1ZQppA6UerMz5CJtGvZmmB6z8L9syq7ixu
 ```
