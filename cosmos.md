@@ -26,6 +26,6 @@ We employ a sentry based arhictecture that yeilds scalabilty and secruity.  You 
 
 Public Key for delegations will be announced.
 
-## Join Us on the Cosmos Journey 
+## Join us on the Cosmos Journey 
 
 ![Cosmos](https://puu.sh/BnHTa/36902d0e37.png)
