@@ -11,13 +11,10 @@ We would like to thank the Tezos Foundation and awesome community who have helpe
 ## Your Delegation
 As supporters of the Tezos project, it is your choice to delegate to bakers you feel add value to the community. We hope to earn your delegation through our actions, reliability and transparency. Before delegating, please always understand the risks associated with doing so.
 
-Our delegation key: `tz1ZQppA6UerMz5CJtGvZmmB6z8L9syq7ixu`
-```
-tz1ZQppA6UerMz5CJtGvZmmB6z8L9syq7ixu
-```
+Our Delegation address: `tz1ZQppA6UerMz5CJtGvZmmB6z8L9syq7ixu`
 
 ## Our Baker
-Our Baker is live on Betanet! You can view our Baker details below.
+Our Baker is live on Betanet! You can view our Baker details and current delegations below.
 
 <div class="button-w-code">
 	<a href="http://tzscan.io/tz1ZQppA6UerMz5CJtGvZmmB6z8L9syq7ixu?default=delegation" class="button" target="_blank">Betanet Baker</a>
