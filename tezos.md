@@ -11,9 +11,13 @@ We would like to thank the Tezos Foundation and awesome community who have helpe
 ## Your Delegation
 As supporters of the Tezos project, it is your choice to delegate to bakers you feel add value to the community. We hope to earn your delegation through our actions, reliability and transparency. Before delegating, please always understand the risks associated with doing so.
 
-Our Delegation address: 
+###Our Delegation address: 
 
 `tz1ZQppA6UerMz5CJtGvZmmB6z8L9syq7ixu`
+
+###Current Baker Fee 
+
+`10%`
 
 ## Our Baker
 Our Baker is live on Betanet! You can view our Baker details and current delegations below.
