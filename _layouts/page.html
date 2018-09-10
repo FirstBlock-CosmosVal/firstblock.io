@@ -7,8 +7,13 @@ layout: default
   <div class="content">
     {{ content }}
     {% include advertisements.html %}
-  <!-- TestLeaderboard [iframenojs] -->
-  <iframe src="https://servedbyadbutler.com/adserve/;ID=173886;size=728x250;setID=327020;type=iframe;click=CLICK_MACRO_PLACEHOLDER" width="728" height="250" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
-  </iframe>
-  </div>
+  <!-- TestLeaderboard [javascript] -->
+  <script type="text/javascript">
+  var rnd = window.rnd || Math.floor(Math.random()*10e6);
+  var pid327020 = window.pid327020 || rnd;
+  var plc327020 = window.plc327020 || 0;
+  var abkw = window.abkw || '';
+  var absrc = 'https://servedbyadbutler.com/adserve/;ID=173886;size=728x250;setID=327020;type=js;sw='+screen.width+';sh='+screen.height+';spr='+window.devicePixelRatio+';kw='+abkw+';pid='+pid327020+';place='+(plc327020++)+';rnd='+rnd+';click=CLICK_MACRO_PLACEHOLDER';
+  document.write('<scr'+'ipt src="'+absrc+'" type="text/javascript"></scr'+'ipt>');
+  </script>
 </article>
