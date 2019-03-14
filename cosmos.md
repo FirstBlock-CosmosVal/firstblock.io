@@ -9,7 +9,9 @@ position: 1
 Delegating to our validator is done using three commands which connect to a full node, setup your connection and execute the delegation: 
 
 1) <code>gaiacli config node INSERTNODEHERE</code>
+
 2) <code>gaiacli config trust-node false</code>
+
 3) <code>gaiacli tx staking delegate cosmosvaloper1hjct6q7npsspsg3dgvzk3sdf89spmlpfdn6m9d 100000000000uatom --from myKeyName --gas auto --gas-prices 1uatom --chain-id cosmoshub-1</code>
 
 ## Our Validator
