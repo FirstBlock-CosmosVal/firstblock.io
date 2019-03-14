@@ -17,7 +17,7 @@ Delegating to our validator is done using three commands which connect to a full
 ## Our Validator
 Leveraging our own experience and that of our partners and advisors, we are able to provide the next level of enterprise cloud infrastructure experience to the table in order to develop architecture that allow us to automatically scale in heavy load environments, processes for real-time monitoring and automated deployment across diverse geographies. 
 
-See us in live on Cosmos Mainnet:
+See us live on Cosmos Mainnet:
 
 <div class="button-w-code">
 	<a href="https://cosmos.bigdipper.live/validator/732CEEF54C374DDC6ADECBFD707AEFD07FEDC143" class="button" target="_blank">Mainnet Validator</a>
