@@ -12,7 +12,7 @@ Delegating to our validator is done using three commands which connect to a full
 
 2) <code>gaiacli config trust-node false</code>
 
-3) <code>gaiacli tx staking delegate cosmosvaloper1hjct6q7npsspsg3dgvzk3sdf89spmlpfdn6m9d 100000000000uatom --from myKeyName --gas auto --gas-prices 1uatom --chain-id cosmoshub-1</code>
+3) <code>gaiacli tx staking delegate cosmosvaloper1s65zmn32zugl57ysj47s7vmfcek0rtd7he7wde 100000000000uatom --from myKeyName --gas auto --gas-prices 1uatom --chain-id cosmoshub-1</code>
 
 ## Our Validator
 Leveraging our own experience and that of our partners and advisors, we are able to provide the next level of enterprise cloud infrastructure experience to the table in order to develop architecture that allow us to automatically scale in heavy load environments, processes for real-time monitoring and automated deployment across diverse geographies. 
