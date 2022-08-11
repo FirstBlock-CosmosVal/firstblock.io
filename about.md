@@ -20,6 +20,5 @@ We will always post important information and updates about our validator on [Tw
 
 
 ## Partners
-We are fortunate to have great partners as we aim to be the best delegated validator in the Cosmos ecosystem.
 
 [![SaasSoft](https://puu.sh/APWbu/ff5b08920b.png)](https://saassoft.com){:target="_blank"}
