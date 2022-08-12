@@ -37,4 +37,4 @@ Please note that we do not alter our Site’s data collection and use practices 
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
  
 ## CONTACT US
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at <hello@firstblock.com>.
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at <firstblockvalidator@gmail.com>.
