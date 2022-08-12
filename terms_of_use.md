@@ -157,4 +157,4 @@ These Terms of Use were last updated on August 31st, 2018.
  
 ## SECTION 18 - CONTACT INFORMATION
  
-Questions about the Terms of Service should be sent to us at <hello@firstblock.com>.
+Questions about the Terms of Service should be sent to us at <firstblockvalidator@gmail.com>.
