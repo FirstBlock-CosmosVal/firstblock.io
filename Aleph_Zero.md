@@ -1,6 +1,6 @@
 ---
 title: Alpeh Zero
-permalink: "/cosmos/"
+permalink: "/Aleph_Zero/"
 layout: page
 position: 1
 ---
