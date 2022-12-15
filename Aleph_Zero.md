@@ -1,5 +1,5 @@
 ---
-title: Alpeh Zero
+title: Aleph Zero
 permalink: "/Aleph_Zero/"
 layout: page
 position: 1
